@@ -1,6 +1,8 @@
 # Hello! Yasaitori here.
 
-A noooob.
+A noooob. 
+
+Educated at [Home University](https://github.com/HMUniversity)
 
 [![Yasaitori's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasaitoriovo)](https://github.com/anuraghazra/github-readme-stats)
 ![Bongo Cat](https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif)
@@ -22,7 +24,7 @@ A noooob.
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)
 ![Shell_script](https://img.shields.io/badge/Shell_script-121011.svg?logo=gnu-bash&logoColor=white)
 
-## How 2 Contact Me
+## How To Contact Me
 
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/ChickenBest/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1035730350925676574)
