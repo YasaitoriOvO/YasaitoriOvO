@@ -13,7 +13,7 @@ Educated at [Home University](https://github.com/HMUniversity)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe-Photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-EA77FF?logo=Adobe-Premiere-Pro&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-0078D6?logo=Windows&logoColor=white)
 
 ## Languages (still learing)
 
