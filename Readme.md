@@ -1,11 +1,10 @@
 # Hello! Yasaitori here.
 
-A noooob. 
-
 Educated at [Home University](https://github.com/HMUniversity)
 
-[![Yasaitori's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasaitoriovo)](https://github.com/anuraghazra/github-readme-stats)
-![Bongo Cat](https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif)
+[![Yasaitori's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasaitoriovo)](https://github.com/anuraghazra/github-readme-stats) ![Bongo Cat](https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif)
+
+(I hate my school)
 
 ## Tools
 
