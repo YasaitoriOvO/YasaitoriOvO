@@ -1,9 +1,8 @@
 ```bash
-Yasaitori@Loser:~ $ rm -rf /* # 结束悲惨的人生
+Yasaitori@life:~ $ rm -rf /* # 结束悲惨的人生
 ```
 
 [[ Website ]](https://www.yatori.cc)
-[[ Blog ]](https://blog.yatori.cc)
 
 [![Steam](https://img.shields.io/badge/Steam-000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/ChickenBest/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1035730350925676574)
